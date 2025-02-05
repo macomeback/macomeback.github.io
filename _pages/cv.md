@@ -20,20 +20,6 @@ Research experience
   * University of Southern California
   * Supervisor: Dr. Mukund Raghothaman
 
-### Nov 2022 - Feb 2023: Research Assistant
-  * Isfahan University of Technology
-  * Project Title: Design and implementation of a testbed for emerging intelligent 5G networks
-  * Supervisor: Dr. Mohammad Reza Heidarpour & Dr. Zeinab Zali
-
-### Dec 2020 - Oct 2022: Research Assistant
-  * Isfahan University of Technology
-  * Project Title: Automatic detection of software vulnerabilities using binary analysis and ML techniques
-  * Supervisor: Dr. Maryam Mouzarani
-
-### Summer 2021: Research & Development Internship
-  * Chavoosh ICT Company
-  * Project Title: Network logs analysis for detecting users behaviours and domains classification
-
 Publications
 ======
   <ul>{% for post in site.publications %}
