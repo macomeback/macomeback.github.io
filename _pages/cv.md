@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, University of Southern California, [GPA: 4.0/4.0], 2023 - Present
-* B.Sc. in Computer Engineering, Isfahan University of Technology, [GPA: 19.49/20], 2017 - 2022
-* Dimploma in Mathematics & Physics, National Organization for Development of Exceptional Talents, 2013 - 2017
+* Ph.D. in Computer Science, University of Southern California, 2024 - Present
+* B.Sc. in Computer Science, Sharif University of Technology, 2019 - 2023
 
 Research experience
 ======
-### Aug 2023 - Present: Research Assistant
+### 2024: Research Assistant
   * University of Southern California
   * Supervisor: Dr. Mukund Raghothaman
 
@@ -45,21 +44,13 @@ Teaching experience
 ======
 
 ### University of Southern California
-  * Introduction to Operating Systems, Spring 2025
-  * Security Systems, Fall 2024
+  * Theory of Computation, Spring 2025
 
-### Isfahan University of Technology
-  * Advanced Programming Lab, Spring 2023
-  * Operating System Lab, Fall 2021, Fall 2022
-  * Fundamentals of Computer Security, Spring 2021
-  * Compiler Design, Spring 2020, Fall 2020, Spring 2022
-  * Algorithm Design and Analysis, Spring 2020, Spring 2022
-  * Discrete Mathematical Structures, Spring 2019
-  * C Programming Lab, Fall 2018, Spring 2019
+### Sharif University of Technology
+  * Operation Research, Fall 2021
+  * Advanced Progreamming, Spring 2020
   
 Skills
 ======
-* Operating Systems: Linux, Windows
-* Programming Languages: Python, C/C++, Java, JavaScript, MATLAB, MIPS/x86/AVR Assembly
-* Frameworks and Libraries: Angr, Soot, Qt, BeautifulSoup, Cryptography, Scapy, Requests, Selenuim, Sikit, Pandas, NumPy
-* Tools & Technologies: LLVM, Burp Suite, WebAssembly, Wireshark, Microsoft SQL Server, Flex, Bison, MiniZinc, OR-Tools, Mininet
+* Operating Systems: Linux, Windows, Mac
+* Programming Languages: Python, Java, MATLAB, MIPS Assembly, Solidity, (Basic) Rust, C++
