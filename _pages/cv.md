@@ -30,6 +30,9 @@ Teaching experience
 ======
 
 ### University of Southern California
+  * Discrete Methods in Computer Science, Fall 2025
+
+### University of Southern California
   * Theory of Computation, Spring 2025
 
 ### Sharif University of Technology
@@ -38,5 +41,4 @@ Teaching experience
   
 Skills
 ======
-* Operating Systems: Linux, Windows, Mac
-* Programming Languages: Python, Java, MATLAB, MIPS Assembly, Solidity, (Basic) Rust, C++
+* Programming Languages: Java, Python, Coq, MATLAB, MIPS Assembly, Solidity, (Basic) Rust, C++
