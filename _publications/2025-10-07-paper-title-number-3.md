@@ -1,5 +1,5 @@
 ---
-title: "Membership Testing for Semantic Regular Expressions"
+title: "Efficient Parallel Execution of Blockchain Transactions Leveraging Conflict Specifications "
 collection: publications
 date: 2025-10-07
 venue: 'AFT'
