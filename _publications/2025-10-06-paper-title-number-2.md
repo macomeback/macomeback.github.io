@@ -4,5 +4,5 @@ collection: publications
 date: 2025-10-06
 venue: 'FMCAD'
 paperurl: 'https://r-mukund.github.io/pdf/submitted/2025-SS3.pdf'
-citation: 'Amirmohammad Nazri, Matin Amini, Mukund Raghothaman.   '
+citation: 'Amirmohammad Nazari, Matin Amini, Mukund Raghothaman.   '
 ---
